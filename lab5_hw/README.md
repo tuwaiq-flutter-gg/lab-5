@@ -1,16 +1,2 @@
-# lab5_hw
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![lap5Part1](https://user-images.githubusercontent.com/117661420/204367938-6475fb79-8799-49ff-8b4c-5cb01a635d8a.png)
+![lab5Part2](https://user-images.githubusercontent.com/117661420/204367945-8a4b1958-a596-4b98-9578-88aa7e38492d.png)
