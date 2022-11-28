@@ -1,10 +1,4 @@
-# lab-5
-
-Using Flutter to create the two design below, you can be creative but you need to stick to the main objects in the image:
-
-Note: Name your app lab5
-
-<img width="322" alt="Screen Shot 2022-11-28 at 1 58 44 PM" src="https://user-images.githubusercontent.com/74452750/204274045-c8bd9311-d273-4267-8c38-f325b354dc21.png">
-
-
-<img width="252" alt="Screen Shot 2022-11-28 at 2 59 29 PM" src="https://user-images.githubusercontent.com/74452750/204274114-3561a91b-eaf9-4834-a2a7-f6e5042bbca6.png">
+![2022-11-28 (1)](https://user-images.githubusercontent.com/115969743/204343516-650e58e3-7457-483d-80f9-0ad3cf365eb4.png)
+<h6>On the first page, the completion has been completed, and if you click on log out, it will take us to the registration page<h6/>
+![2022-11-28 (2)](https://user-images.githubusercontent.com/115969743/204343565-91b2aea6-7ddd-4579-b7f1-988d9a3b0128.png)
+<h6>On the second page, the completion has been completed, and if you click on login, it will take us to the main page</h6>
