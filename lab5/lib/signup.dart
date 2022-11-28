@@ -86,7 +86,7 @@ class sign extends StatelessWidget {
                     ),
                     Text.rich(
                       TextSpan(
-                        text: "'I agree on the",
+                        text: "I agree on the",
                         children: [
                           TextSpan(
                             text: " Terms & Conditions",
